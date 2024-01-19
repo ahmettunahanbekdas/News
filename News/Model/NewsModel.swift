@@ -16,7 +16,7 @@ struct NewsModel: Codable {
 struct Article: Codable {
     let title: String
     let url: String
-    let urlToImage: String? //Bazı fotoğraflar gelmediği için optional olarak verdi
+    let urlToImage: String?
 }
 
 
