@@ -18,3 +18,5 @@ MVVM encourages separation of concerns, enhancing code modularity and simplifyin
 
 
 # Screen Recording
+
+https://github.com/ahmettunahanbekdas/News/assets/97003033/3915acf1-2879-4b88-a56a-3736f4f8349c
